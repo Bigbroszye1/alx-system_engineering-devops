@@ -1,2 +1,2 @@
 #!/bin/bash
-chmog ug-rwx hello
+chmog 1 hello
